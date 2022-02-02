@@ -1,0 +1,39 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+    text-align: left;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: #17A2B8;
+    width: 100%;
+    line-height: 2.5;
+    color: aliceblue;
+}
+
+.status {
+    font-size: 18px;
+}
+
+canvas {
+    border: 5px solid grey;
+    border-radius: 10px;
+    box-shadow: 1px 10px 15px grey;
+    margin-top: 85px;
+}
